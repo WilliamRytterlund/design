@@ -1,25 +1,44 @@
 ---
 title: "Min fina titel"
+views:
+
+    byline:
+        region: main
+        template: anax/v2/block/default
+        sort: 2
+        data:
+            meta:
+                type: single
+                route: block/byline
+
+
 ---
+
+
 Min me-sida i kursen design
 =========================
 
+
+
+
+
 Detta innehåll är skrivet i markdown och du hittar innehållet i filen `content/index.md`.
 
-[FIGURE src="image/me.jpg?w=500" class="right" caption="Bild på mig"]
+[FIGURE src="image/byline.jpg?w=500" class="right" caption="Bild på mig"]
 
-Detta är min me-sida i kursen. Denna sidan innehåller en presentation av mig själv. Underhåll denna sidan under hela kursen och uppdatera den efter hand och behov.
 
-Så, en presentation en bra början. Skriv några ord om dig själv. Jag börjar.
+Det här är min me-sida för kursen design. Här tänker jag köra en presentation om mig. Denna sida kommer uppdateras ifall det behövs under kursens gång.
 
-Mitt namn är Mikael Roos. Född och uppvuxen i Bankeryd, Småland, strax utanför Jönköping, i ett villaområde som byggdes upp samtidigt som vi flyttade in där. Jag gillade landhockey och har spelat bandy och hockey samt gått bowlinggymnasiet i Nässjö. Jag har varit städare, diskare, kallskänka, servitör och kock. På ett bananskal landade jag i Ronneby när jag började högskolan 1990 där och nu är jag kvar med fru, barn och så vidare.
+Då kör vi.
 
-Programmering har alltid intresserat mig sedan 13-årsåldern och min första dator var en Spectravideo 328 med bandspelare.
+Här kommer en lite kort beskrivning om mig William Rytterlund. Jag är uppväxt i Tumba. Tumba är en ort söder om Stockholm cirka 40 minuter med bil imellan beroende på trafiken. Trotsallt Stockholm vi pratar om.
+Vi flyttade till hit när jag var 8-9 år gammal. Innan vi flyttade bodde jag en sväng på Söder, Gröndal men under en längre tid i Vårberg.
+Just nu i skrivande stunden så är jag 19år gammal och bor fortfarnade hemma då jag studerar halvtid men även arbetar heltid som Datorconsult i Skarpnäck.
+Jag arbetar som 1st line support tekniker.
 
-Om jag skall nämna någon hobby, förutom webbprogrammering, så får det bli att bära sten på sommarstugetomten, och det finns sten så det räcker och blir över.
+När jag inte pluggar eller jobbar så brukar jag sitta vid datorn och snacka med kompisar och spela.
+Jag har även ett väldigt stort motorintresse så på helgerna man har tid blir det en heldel åkande och skruvande.
 
-Till och från får jag för mig att börja på lite hobbies, ett år satsade jag på pokerspel, ett annat år var det geocaching och sedan turfing. Nu ligger jag lågt med hobbies, men något kanske dyker upp...?
+Vi hörs!
 
-Vi syns och hörs i forum och chatt!
-
-/Mikael
+//William
