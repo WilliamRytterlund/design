@@ -4579,7 +4579,6 @@ body {
   padding: 0;
   color: #000;
   background-color: #c2c2c2;
-  font: 100.01%/1 serif;
 }
 h1,
 h2,
@@ -5565,218 +5564,100 @@ article table {
   margin-left: 0.52083333%;
   margin-right: 0.52083333%;
 }
-@media screen and max-width600px {
-  figure.figure.w50 {
-    width: 300px;
-  }
-  figure.figure.w25 {
-    width: 150px;
-  }
+.rm-navbar-top .rm-desktop .icon {
+  display: none;
 }
-@media screen and max-width550px {
-  figure.figure.w50 {
-    width: 225px;
-  }
+.region-header-col-1 {
+  display: inline;
+  float: left;
+  width: 23.95833333%;
+  margin-left: 0.52083333%;
+  margin-right: 0.52083333%;
 }
-@media screen and max-width450px {
-  figure.figure.w50 {
-    width: 200px;
-  }
+.region-header-col-2 {
+  display: inline;
+  float: left;
+  width: 65.625%;
+  margin-left: 0.52083333%;
+  margin-right: 0.52083333%;
 }
-@media screen and max-width400px {
-  figure.figure.w50 {
-    width: 150px;
-  }
+.region-sidebar-left,
+.region-sidebar-right {
+  display: none;
 }
-@media screen and max-width320px {
-  figure.figure.w50 {
-    min-width: 100%;
-  }
-  figure.figure.left,
-  figure.figure.right {
-    float: none;
-    margin-left: 0;
-    margin-right: 0;
-  }
+.col4 {
+  display: inline;
+  float: left;
+  width: 48.95833333%;
+  margin-left: 0.52083333%;
+  margin-right: 0.52083333%;
 }
-@media min-width1100px {
-  html.vgrid .inner-wrap {
-    background-size: 1100px auto;
-  }
+.footer-column-wrapper,
+.footer-column-x {
+  padding-right: 0;
 }
-@media min-width100 {
-  html.vgrid .inner-wrap.inner-wrap-header {
-    background-size: 100% auto;
-  }
+.footer-column-x h4 {
+  border-bottom: 1px solid #f00;
 }
-@media screen and max-width900px {
-  .header-anchor {
-    display: block;
-    color: #ddd;
-  }
+.footer-column-1,
+.footer-column-2 {
+  border-right: none;
 }
-@media screen and max-width680px {
-  .rm-small {
-    display: block;
-  }
-  .rm-desktop {
-    display: none;
-  }
+.footer-column-2,
+.footer-column-3 {
+  padding-left: 0;
 }
-@media screen and min-width680px {
-  .rm-small {
-    display: none;
-  }
+.fa-4x {
+  font-size: 2em;
 }
-@media screen and max-width1400px {
-  .rm-navbar-top .rm-desktop a {
-    padding: 0 20px;
-  }
+.region-main.has-sidebar-left,
+.region-main.has-sidebar-right,
+.region-main.has-sidebar-left.has-sidebar-right {
+  display: inline;
+  float: left;
+  width: 98.95833333%;
+  margin-right: 0.52083333%;
+  margin-left: 0.52083333%;
 }
-@media screen and max-width1000px {
-  .rm-navbar-top .rm-desktop a {
-    padding: 0 10px;
-  }
-  .rm-navbar-top .rm-desktop .icon {
-    display: none;
-  }
-  .region-header-col-1 {
-    display: inline;
-    float: left;
-    width: 23.95833333%;
-    margin-left: 0.52083333%;
-    margin-right: 0.52083333%;
-  }
-  .region-header-col-2 {
-    display: inline;
-    float: left;
-    width: 65.625%;
-    margin-left: 0.52083333%;
-    margin-right: 0.52083333%;
-  }
+.col3,
+.footer-column {
+  display: inline;
+  float: left;
+  width: 98.95833333%;
+  margin-left: 0.52083333%;
+  margin-right: 0.52083333%;
 }
-@media screen and max-width650px {
-  .region-main {
-    min-height: initial;
-    display: inline;
-    float: left;
-    width: 98.95833333%;
-    margin-right: 0.52083333%;
-    margin-left: 0.52083333%;
-  }
-  .region-sidebar-left,
-  .region-sidebar-right {
-    display: none;
-  }
-  .col4 {
-    display: inline;
-    float: left;
-    width: 48.95833333%;
-    margin-left: 0.52083333%;
-    margin-right: 0.52083333%;
-  }
-  .footer-column-wrapper,
-  .footer-column-x {
-    padding-right: 0;
-  }
-  .footer-column-x h4 {
-    border-bottom: 1px solid #f00;
-  }
-  .footer-column-1,
-  .footer-column-2 {
-    border-right: none;
-  }
-  .footer-column-2,
-  .footer-column-3 {
-    padding-left: 0;
-  }
-  .fa-4x {
-    font-size: 2em;
-  }
-  .region-main.has-sidebar-left,
-  .region-main.has-sidebar-right,
-  .region-main.has-sidebar-left.has-sidebar-right {
-    display: inline;
-    float: left;
-    width: 98.95833333%;
-    margin-right: 0.52083333%;
-    margin-left: 0.52083333%;
-  }
-  .col3,
-  .footer-column {
-    display: inline;
-    float: left;
-    width: 98.95833333%;
-    margin-left: 0.52083333%;
-    margin-right: 0.52083333%;
-  }
+.region-header-col-3 {
+  display: inline;
+  float: left;
+  width: 7.29166667%;
+  margin-left: 0.52083333%;
+  margin-right: 0.52083333%;
 }
-@media screen and max-width1300px {
-  .region-header-col-2 {
-    display: inline;
-    float: left;
-    width: 69.79166667%;
-    margin-left: 0.52083333%;
-    margin-right: 0.52083333%;
-  }
-  .region-header-col-3 {
-    display: inline;
-    float: left;
-    width: 7.29166667%;
-    margin-left: 0.52083333%;
-    margin-right: 0.52083333%;
-  }
+.region-header-col-2 {
+  display: none;
 }
-@media screen and max-width800px {
-  .region-header-col-1 {
-    display: inline;
-    float: left;
-    width: 65.625%;
-    margin-left: 0.52083333%;
-    margin-right: 0.52083333%;
-  }
-  .region-header-col-2 {
-    display: none;
-  }
-  .region-header-col-3 {
-    display: inline;
-    float: left;
-    width: 32.29166667%;
-    margin-left: 0.52083333%;
-    margin-right: 0.52083333%;
-  }
+.region-header-col-3 {
+  display: inline;
+  float: left;
+  width: 32.29166667%;
+  margin-left: 0.52083333%;
+  margin-right: 0.52083333%;
 }
-@media screen and max-width1700px {
-  .site-logo img {
-    width: 150px;
-  }
+.site-logo {
+  display: none;
 }
-@media screen and max-width1500px {
-  .site-logo-text-icon img {
-    display: inline;
-  }
-  .site-logo {
-    display: none;
-  }
+.outer-wrap-flash,
+.outer-wrap-footer {
+  margin-left: 0;
+  margin-right: 0;
 }
-@media screen and max-width1100px {
-  .inner-wrap-footer,
-  .outer-wrap {
-    margin-left: 4px;
-    margin-right: 4px;
-  }
-  .outer-wrap-flash,
-  .outer-wrap-footer {
-    margin-left: 0;
-    margin-right: 0;
-  }
-  .outer-wrap-flash .row {
-    max-width: 100%;
-  }
-  .footer {
-    padding-left: 4px;
-    padding-right: 4px;
-  }
+.outer-wrap-flash .row {
+  max-width: 100%;
+}
+.footer {
+  padding-left: 4px;
+  padding-right: 4px;
 }
 .fa,
 .fab,
