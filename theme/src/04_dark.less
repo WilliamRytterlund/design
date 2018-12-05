@@ -1,0 +1,35 @@
+/*!
+ * Stylesheet for design kmom04 dark.
+ *
+ * This stylesheet is for the design course and kmom04 where we use LESS.
+ */
+
+
+@import "kmom04.less";
+@import "base/base_kmom04_dark.less";
+@import "layout/layout_vgrid_dark.less";
+@backgroundColor: #333;
+@textColor: #2ecc40;
+@fontFamilyBody:monospace;
+@fontFamilyHeadings: monospace;
+
+html {
+    background-color: @backgroundColor;
+}
+
+body {
+    background-color: @backgroundColor;
+    color: @textColor;
+}
+
+a, li {
+    color: @textColor;
+}
+
+.rm-desktop li {
+    background-color: @backgroundColor;
+}
+
+.footer-column-wrapper {
+    color: @textColor;
+}

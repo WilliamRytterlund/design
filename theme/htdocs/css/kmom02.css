@@ -5297,6 +5297,9 @@ a.rm-button.rm-clicked .rm-button-face-2 {
 .rm-desktop li ul {
   background-color: #fff;
 }
+.rm-desktop li {
+  background-color: #333;
+}
 .wrap-sidebar .block h4 {
   border-top: 1px solid #ccc;
   background-image: linear-gradient(toright, #fff, #ccc);
