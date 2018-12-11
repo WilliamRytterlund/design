@@ -40,6 +40,11 @@ return [
                         "url" => "redovisning/kmom04",
                         "title" => "Redovisning för kmom04.",
                     ],
+                    [
+                        "text" => "Kmom05",
+                        "url" => "redovisning/kmom05",
+                        "title" => "Redovisning för kmom05.",
+                    ],
                 ],
             ],
         ],
@@ -66,7 +71,26 @@ return [
         [
             "text" => "Rapport",
             "url" => "rapport",
-            "title" => "Rapport",
+            "title" => "Rapport.",
+            "submenu" => [
+                "items" => [
+                    [
+                        "text" => "Färgschema",
+                        "url" => "rapport/fargschema",
+                        "title" => "Rapport för 04_färgschema.",
+                    ],
+                    [
+                        "text" => "Laddningstid",
+                        "url" => "rapport/laddningstid",
+                        "title" => "Rapport för 05_laddningstid.",
+                    ],
+                ],
+            ],
+        ],
+        [
+            "text" => "Blogg",
+            "url" => "blogg",
+            "title" => "Blogg",
         ],
     ],
 ];

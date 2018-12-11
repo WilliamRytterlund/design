@@ -1,4 +1,9 @@
 /*!
+ * Stylesheet for design kmom05. Based of kmom04_minimalistic.
+ *
+ * This stylesheet is for the design course and kmom05 where we use LESS.
+ */
+/*!
  * Stylesheet for design kmom04.
  *
  * This stylesheet is for the design course and kmom04 where we use LESS.
@@ -4937,3 +4942,639 @@ a.rm-button.rm-clicked .rm-button-face-2 {
 /**
  * My own settings, not currently in their own module.
  */
+/**
+ * Base style to affect HTML elements on a general scale.
+ */
+html {
+  overflow-y: scroll;
+}
+body {
+  margin: 0;
+  padding: 0;
+  font: 16px/1.5 monospace;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: monospace;
+  margin-top: 24px;
+  margin-bottom: 24px;
+}
+h1 img,
+h2 img,
+h3 img,
+h4 img,
+h5 img,
+h6 img {
+  margin: 0;
+}
+h1 {
+  font-size: 2.375em;
+  line-height: 1.26315789;
+  font-weight: normal;
+  border-bottom: 1px solid #666;
+  margin-bottom: 23px;
+}
+h1 ~ h1,
+h1 ~ h2,
+h1 ~ h3,
+h1 ~ h4,
+h1 ~ h5,
+h1 ~ h6 {
+  margin-top: 48px;
+}
+h1 + h2 {
+  margin-top: 24px;
+}
+h2 {
+  font-size: 1.875em;
+  line-height: 1.6;
+  font-weight: normal;
+  margin-bottom: 23px;
+  border-bottom: 1px solid #CCC;
+}
+h2 + h3 {
+  margin-top: 24px;
+}
+h3 {
+  font-size: 1.75em;
+  line-height: 1.71428571;
+  font-weight: normal;
+  margin-bottom: 23px;
+  border-bottom: 1px solid #EEE;
+}
+h3 + h4 {
+  margin-top: 24px;
+}
+h4 {
+  font-size: 1.5em;
+  line-height: 1;
+  font-weight: normal;
+  margin-bottom: 23px;
+  border-bottom: 1px solid #EEE;
+}
+h4 + h5 {
+  margin-top: 24px;
+}
+h5 {
+  font-size: 1.25em;
+  line-height: 1.2;
+  margin-bottom: 23px;
+  border-bottom: 1px solid #EEE;
+}
+h5 + h6 {
+  margin-top: 24px;
+}
+h6 {
+  font-size: 1.25em;
+  line-height: 1.2;
+  margin-bottom: 23px;
+  border-bottom: 1px solid #EEE;
+}
+p {
+  margin-bottom: 24px;
+}
+small,
+.small,
+.smaller {
+  font-size: 0.875em;
+}
+strong,
+b {
+  font-weight: bold;
+}
+mark {
+  color: #000;
+  background-color: #ff9;
+}
+abbr[title],
+dfn[title] {
+  text-decoration: dotted underline;
+}
+em,
+i,
+dfn {
+  font-style: italic;
+}
+sub,
+sup {
+  font-size: 0.75em;
+  line-height: 0;
+  position: relative;
+  vertical-align: baseline;
+}
+sup {
+  top: -0.5em;
+}
+sub {
+  bottom: -0.25em;
+}
+blockquote {
+  border-left: 4px solid #eee;
+  padding-left: 1em;
+  margin-left: 0;
+  margin-bottom: 24px;
+}
+pre,
+code,
+kbd,
+samp,
+.code {
+  font-family: "monospace";
+}
+code,
+samp {
+  border: 1px solid #ccc;
+  padding-left: 1px;
+  padding-right: 1px;
+}
+code {
+  background-color: #eee;
+}
+pre,
+div.code,
+pre code {
+  font-size: 1em;
+  line-height: 1.5;
+  white-space: pre;
+}
+pre {
+  margin-bottom: 24px;
+}
+pre code {
+  display: block;
+  overflow: auto;
+}
+div.code,
+pre code {
+  border-top: 1px solid #ccc;
+  border-bottom: 1px solid #ccc;
+  margin-bottom: 23px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  padding-left: 0.5em;
+  background-color: #eee;
+}
+ul,
+ol {
+  margin-bottom: 24px;
+  padding-left: 1.5em;
+}
+ul p,
+ol p {
+  margin-top: 12px;
+  margin-bottom: 12px;
+}
+ul ul,
+ol ul,
+ul ol,
+ol ol {
+  margin: 0;
+}
+ul {
+  list-style-type: disc;
+}
+ol {
+  list-style-type: decimal;
+}
+dl {
+  margin-bottom: 24px;
+}
+dl.horizontal dt {
+  clear: left;
+  float: left;
+  width: 7em;
+}
+dl.horizontal dd {
+  margin-left: 8em;
+  display: block;
+}
+dd {
+  margin-left: 1.5em;
+}
+article table,
+.table,
+.table1,
+.table2 {
+  margin-bottom: 24px;
+}
+table.full-width,
+article .table,
+.table,
+.table2 {
+  width: 100%;
+}
+article table,
+.table,
+.table2 {
+  border-collapse: collapse;
+  /*
+            tfoot {
+            }
+            */
+}
+article table caption,
+.table caption,
+.table2 caption {
+  font-size: 0.875em;
+  line-height: 1.71428571;
+  text-align: left;
+  font-style: italic;
+}
+article table thead,
+.table thead,
+.table2 thead {
+  box-shadow: 0 1px 0 #aaa;
+}
+article table th,
+.table th,
+.table2 th {
+  vertical-align: bottom;
+  font-weight: bold;
+  text-align: left;
+}
+article table th,
+.table th,
+.table2 th,
+article table td,
+.table td,
+.table2 td {
+  padding: 6px;
+}
+article table tr,
+.table tr,
+.table2 tr {
+  box-shadow: 0 1px 0 #ccc;
+}
+article table tr:hover,
+.table tr:hover,
+.table2 tr:hover {
+  color: #000;
+  background-color: #f6f6f6;
+  box-shadow: 0 1px 0 #666;
+}
+table.striped tbody tr:nth-child(even) td,
+table.striped tbody tr.even td {
+  background-color: #fafafa;
+}
+hr {
+  position: relative;
+  top: -2px;
+  border: 0;
+  height: 1px;
+  background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
+  margin-top: 35px;
+  margin-bottom: 36px;
+}
+hr::after {
+  content: "§";
+  position: relative;
+  top: -0.7em;
+  left: 50%;
+  padding: 0 0.25em;
+  background-color: #fff;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin-top: 24px;
+  margin-bottom: 24px;
+}
+h2 {
+  font-size: 1.875em;
+  line-height: 1.6;
+  font-weight: 400;
+  margin-top: 48px;
+  margin-bottom: 23px;
+  border-bottom: 1px solid #CCC;
+}
+h3 {
+  font-size: 1.375em;
+  line-height: 1.09090909;
+  font-weight: 400;
+  margin-top: 48px;
+  margin-bottom: 23px;
+  border-bottom: 1px solid #EEE;
+}
+h4 {
+  font-size: 1.25em;
+  line-height: 1.2;
+  font-weight: 400;
+}
+h5 {
+  font-size: 1em;
+  line-height: 1.5;
+}
+h6 {
+  font-size: 0.875em;
+  line-height: 1.71428571;
+}
+mark {
+  color: #000;
+  background-color: #ff9;
+}
+abbr[title],
+dfn[title] {
+  text-decoration: dotted underline;
+}
+blockquote {
+  border-left: 4px solid #eee;
+  padding-left: 1em;
+  margin-left: 0;
+  margin-bottom: 24px;
+}
+.code,
+code,
+kbd,
+pre,
+samp {
+  font-size: 1.25em;
+  font-family: monospace;
+}
+code,
+samp {
+  border: 1px solid #ccc;
+}
+code {
+  background-color: #eee;
+}
+div.code,
+pre,
+pre code {
+  font-size: 1.25em;
+  line-height: 1.6;
+  white-space: pre;
+}
+pre code {
+  display: block;
+  overflow: auto;
+}
+div.code,
+pre code {
+  border-top: 1px solid #ccc;
+  border-bottom: 1px solid #ccc;
+  margin-top: 23px;
+  margin-bottom: 23px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  padding-left: 0.5em;
+  background-color: #eee;
+}
+ol,
+ul {
+  margin-top: 24px;
+  margin-bottom: 24px;
+  padding-left: 1.5em;
+}
+ol p,
+ul p {
+  margin-top: 12px;
+  margin-bottom: 12px;
+}
+ul {
+  list-style-type: disc;
+}
+ol {
+  list-style-type: decimal;
+}
+summary {
+  display: list-item;
+}
+legend {
+  box-sizing: border-box;
+  color: inherit;
+  display: table;
+  max-width: 100%;
+  white-space: normal;
+  padding: 0;
+}
+progress {
+  vertical-align: baseline;
+}
+textarea {
+  overflow: auto;
+  width: 100%;
+  height: 8em;
+}
+fieldset {
+  padding: 24px 0.75em 0.625em;
+}
+html {
+  line-height: 1.15;
+  -webkit-text-size-adjust: 100%;
+  overflow-y: scroll;
+  background-color: #c2c2c2;
+}
+body {
+  color: #000;
+  background-color: #c2c2c2;
+  font: 100.01%/1.5 Verdana, Geneva, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+h1 {
+  font-size: 2.375em;
+  line-height: 1.26315789;
+  font-weight: 400;
+  border-bottom: 1px solid #666;
+  margin: 0.67em 0 23px;
+}
+hr {
+  box-sizing: content-box;
+  overflow: visible;
+  position: relative;
+  top: -2px;
+  border: 0;
+  height: 1px;
+  background-image: linear-gradient(toright, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
+  margin-top: 35px;
+  margin-bottom: 36px;
+}
+pre {
+  font-family: monospace,monospace;
+  font-size: 1em;
+  margin-top: 24px;
+  margin-bottom: 24px;
+}
+a,
+li {
+  background-color: transparent;
+  color: #000;
+  text-decoration: underline;
+  text-decoration: none;
+}
+a:hover {
+  color: white;
+  text-decoration: none;
+  cursor: pointer;
+}
+abbr[title] {
+  border-bottom: none;
+  text-decoration: underline dotted;
+}
+code,
+kbd,
+samp {
+  font-family: monospace,monospace;
+  font-size: 1em;
+}
+small {
+  font-size: 80%;
+}
+sub,
+sup {
+  font-size: 0.75em;
+  line-height: 0;
+  position: relative;
+  vertical-align: baseline;
+}
+sub {
+  bottom: -0.25em;
+}
+sup {
+  top: -0.5em;
+}
+img {
+  max-width: 100%;
+  border-style: none;
+}
+button,
+input,
+optgroup,
+select,
+textarea {
+  font-family: inherit;
+  font-size: 100%;
+  line-height: 1.15;
+  margin: 0;
+}
+button,
+input {
+  overflow: visible;
+}
+button,
+select {
+  text-transform: none;
+}
+html {
+  background-color: #fff;
+}
+body {
+  background-color: #fff;
+  color: #000;
+}
+a,
+li {
+  color: #000;
+}
+.rm-desktop li {
+  background-color: #848484;
+}
+.inner-wrap-header {
+  background-color: #848484;
+}
+/**
+ * Figure and figcaption for images and other media using figure/figcaption
+ */
+/**
+ * Figure with ASCIINEMA
+ */
+/**
+ * Figure with Codepen
+ */
+/** --------------------------------------------------------------
+ * Figure through .figure
+ */
+figure.figure,
+figure.asciinema,
+figure.codepen,
+figure.figure-codepen {
+  display: table;
+  padding: 0;
+  margin: 0;
+  /* Chrome shinks images in td */
+  /* Position the images */
+}
+figure.figure img {
+  max-width: 100%;
+  display: block;
+}
+figure.figure figcaption {
+  display: table-caption;
+  caption-side: bottom;
+}
+figure.figure figcaption p {
+  margin-top: 0;
+  font-style: italic;
+}
+figure.figure td img {
+  max-width: none;
+}
+figure.figure.left {
+  float: left;
+  margin-right: 8px;
+}
+figure.figure.right {
+  float: right;
+  margin-left: 8px;
+}
+figure.figure.center {
+  clear: both;
+  margin: auto;
+}
+figure.figure.center figcaption {
+  text-align: center;
+}
+@media screen and (max-width: 600px) {
+  figure.figure.w50 {
+    width: 300px;
+  }
+  figure.figure.w25 {
+    width: 150px;
+  }
+}
+@media screen and (max-width: 550px) {
+  figure.figure.w50 {
+    width: 225px;
+  }
+}
+@media screen and (max-width: 450px) {
+  figure.figure.w50 {
+    width: 200px;
+  }
+}
+@media screen and (max-width: 400px) {
+  figure.figure.w50 {
+    width: 150px;
+  }
+}
+@media screen and (max-width: 320px) {
+  figure.figure.w50 {
+    min-width: 100%;
+  }
+  figure.figure.left,
+  figure.figure.right {
+    float: none;
+    margin-left: 0;
+    margin-right: 0;
+  }
+}
+figure.asciinema {
+  display: block;
+}
+figure.asciinema figcaption {
+  display: block;
+}
+figure.asciinema .asciicast {
+  margin: 0 !important;
+}
+figure.codepen,
+figure.figure-codepen {
+  width: 100%;
+}
