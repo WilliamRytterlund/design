@@ -1,0 +1,60 @@
+/*!
+ * Stylesheet for design kmom06 designelement.
+ *
+ * This stylesheet is for the design course and kmom06 designelement.
+ */
+ @import "kmom04.less";
+ @import "base/base_kmom04_minimalistic.less";
+
+ @backgroundColor: #b30404;
+ @textColor: #fff;
+ @fontFamilyBody:Serif;
+ @fontFamilyHeadings: Impact;
+ @headerColor: #0d8c0d;
+
+ html {
+     background-color: @backgroundColor;
+ }
+
+ body {
+     background-color: @backgroundColor;
+     color: @textColor;
+ }
+
+ a, li {
+     color: @textColor;
+ }
+
+ .rm-desktop li {
+     background-color: @headerColor;
+ }
+.inner-wrap-header {
+    background-color: @headerColor;
+
+}
+
+.inner-wrap-header a,li {
+    color: #04dc04;
+}
+.inner-wrap-main {
+    background-color: @headerColor;
+}
+
+.inner-wrap-main img {
+    border-radius: 50%;
+}
+
+.outer-wrap-footer {
+    background-color: @headerColor;
+}
+
+
+.inner-wrap-main {
+    padding:10px;
+    text-decoration: none;
+    text-shadow: 0 1px 0 black;
+    border-right: 30px solid yellow;
+    border-bottom: 30px solid green;
+    border-left: 30px solid yellow;
+    border-top: 30px solid black;
+}

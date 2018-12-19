@@ -11,6 +11,8 @@ Urval
 
 Berätta vilka webbplatser du valt att undersöka och varför eller hur du gick tillväga när du gjorde ditt urval.
 
+
+
 Den första webbsidan jag valde var webhallen.se .
 Jag valde webbhallens webbsida för att där handlade jag julklappar faktiskt och brukar handla hos dom då jag behöver it produkter.
 Självklart har de även andra produkter men det brukar vara mitt förstahandsval angående it produkter.
