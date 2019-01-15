@@ -1,3 +1,4 @@
-#### Kursrepo
+#### Se hit!
 
-Här finns det länkat till mitt kursrepo och hemsida. Klicka på länkarna så ses vi! [kursens hemsida på dbwebb.se](https://github.com/WilliamRytterlund/design/blob/master/content/index.md) och till [kursrepot på GitHub](https://github.com/WilliamRytterlund/design).
+Hejsan! Se till att läsa våran blogg där vi har flera schyssta konsult tips med mera!
+Ses där!

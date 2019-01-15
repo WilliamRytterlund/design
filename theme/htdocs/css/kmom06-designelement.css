@@ -4652,7 +4652,6 @@ a.rm-button.rm-clicked .rm-button-face-2 {
   width: 101.04166667%;
   margin-left: -0.52083333%;
   margin-right: -0.52083333%;
-  margin-bottom: 12px;
 }
 .row::after {
   content: "";
@@ -4838,10 +4837,6 @@ a.rm-button.rm-clicked .rm-button-face-2 {
 .footer-column-wrapper {
   color: #ddd;
   border-bottom: 1px solid #848484;
-}
-.footer-column-1,
-.footer-column-2 {
-  border-right: 1px solid #848484;
 }
 .site-footer {
   color: #aaa;
@@ -5335,7 +5330,6 @@ ul {
 ol p,
 ul p {
   margin-top: 12px;
-  margin-bottom: 12px;
 }
 ul {
   list-style-type: disc;

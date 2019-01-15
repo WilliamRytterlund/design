@@ -12,15 +12,15 @@ return [
         "region" => "layout",
         "template" => "anax/v2/layout/dbwebb_se",
         "data" => [
-            "baseTitle" => " | design",
+            "baseTitle" => " | Ludviga Af Solstråle med kompanjoner",
             "bodyClass" => null,
-            "favicon" => "favicon.ico",
+            "favicon" => "favicon.png",
             "htmlClass" => null,
             "lang" => "sv",
             "stylesheets" => [
                 // Change here to set another default stylesheet
                 //"css/dbwebb-se.min.css",
-                "css/kmom06-designprinciper.css",
+                "css/main.css",
             ],
             "javascripts" => [
                 "js/responsive-menu.js",
@@ -35,7 +35,7 @@ return [
             "template" => "anax/v2/header/site_logo",
             "data" => [
                 "class" => "large",
-                "siteLogo"      => "image/theme/leaf_256x256.png",
+                "siteLogo"      => "image/logo256x256.png",
                 "siteLogoAlt"   => "Löv",
             ],
         ],
@@ -44,8 +44,8 @@ return [
             "template" => "anax/v2/header/site_logo_text",
             "data" => [
                 "homeLink"      => "",
-                "siteLogoText"  => "design",
-                "siteLogoTextIcon" => "image/theme/leaf_40x40.png",
+                "siteLogoText"  => "",
+                "siteLogoTextIcon" => "image/logo64x64.png",
                 "siteLogoTextIconAlt" => "Löv-bild",
             ],
         ],

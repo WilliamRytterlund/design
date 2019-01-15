@@ -1,3 +1,6 @@
-#### Redovisa på GitHub
+#### Ses till att kontakta oss vi intresse!
 
-Här kan du få en insyn på filerna som tillhör redovisa. [repot för me/redovisa på GitHub](https://github.com/WilliamRytterlund/design/tree/master/content/redovisning).
+Hör av dig till oss här:
+
+Gå längst ner på sidan.
+Hoppas vi hörs!

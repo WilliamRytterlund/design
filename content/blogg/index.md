@@ -30,8 +30,8 @@ views:
                 view: blog-list
 
 ---
-Dagens Bild
+Ludviga Af Solstråle med kompanjoner - Blogg
 ===========================
 
-På denna bloggen kommer jag ladda upp dagens bild om vad jag gör på dagarna. 
+Här kommer du kunna följa styrelseordförande Ludviga Af Solstråle och hans kompanjoner och deras managementkonsult uthyrning.
 Tack för att du läser!

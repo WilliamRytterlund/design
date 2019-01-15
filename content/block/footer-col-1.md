@@ -1,3 +1,7 @@
-#### Footer col 1
+#### Kontakt
 
-Med brödtext i ett stycke som säger något trevligt om just detta block, eller kanske en lista av länkar.
+Telefon: 08-447 58 13
+
+E-post:info@Ludvigaochkompanjoner.nu
+
+© Ludviga Af Solstråle med kompanjoner AB

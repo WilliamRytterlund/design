@@ -1,74 +1,52 @@
 ---
-author: airy18
+author: Fredrik
 category:
-    - min vardag
-    - dagensbild
-published: "2018-12-10"
+    - konsult tips
+    - nytt inlägg
+published: "2018-01-14"
 ---
-Måndag på jobbet
+Tips på hur du blir anlitad som konsult
 ==================================
 
-[FIGURE src="image/jobb1.jpg&w=800&f=smooth,0" caption="Här kör jag ett smooth filter på stryka 0 för att göra läseren intresserad i inlägget."]
+[FIGURE src="image/hired.png&w=800]
 
-Här är en bild från sista timmen på jobbet i måndags. Detta är hur mitt skrivbord ser ut.
+Hejsan, detta är en av Ludvigs kompanjoner Fredrik.
+Vill ni ha lite schyssta tips på hur du blir anställd som konsult.
+Då måste du bara läsa detta!
 
 
 
 
 <!--more-->
 
-Jag tog denna bilden från min kontors stol på min arbetsplats. Jag tog denna bilden för jag tyckte det kanske skulle kunna vara intressant och se hur min arbetsplats ser ut, både för mitt minne men även läsaren.
-Denna bilden är tagen med min IPhone 8.
-
-IPhone 8 kameran har:
-12MP camera med ƒ/1.8 aperture och med digital zoom till 5x.
-
-**All TEST text du ser är för att demostrera hur texten rör sig runt bilderna.**
-
-**Men läs kommentarerna vet ja!**
 
 
-Rubrik 2 {#anchor-hit}
+
+Tips på hur du blir anlitad som konsult
 -----------------------------------
 
-TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST
-TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST
-TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST
-TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST
-TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST
-TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST
-TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST
+**Bli specialist:**
+Ringa in ett område och ha som ambition att bli främst på det. En specialist finns det alltid plats för eftersom företag och organisationer som tar in en konsult gör det för att man vill göra rätt från början.
+
+**Överleverera:**
+Gör inte bara en leverans. Gör även det där lilla extra. Och fortsätt med det. Det är det som gör att du sticker ut och blir uppringd igen.
 <figure class="figure right">
-    <img src="image/jobb1.jpg&w=450&h=450?save-as=jpg&sharpen" alt="bilar">
-    <figcaption>
-        <p>Här kör jag ett endast ett sharpen filter. Ser helt ok ut!</p>
-    </figcaption>
+    <img src="image/approved.png&w=450">
 </figure>
-TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST
-TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST
-TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST
-TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST
-TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST
-TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST
-TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST
-Text.
+**Förstå kundens behov:**
+Du måste lära dig förstå kundernas verksamhet. Hur ser det ut? Vilka är deras utmaningar?
+
+**Skärskåda din leverans:**
+Ha en tydlig bild av vilken affärsnytta du levererar till din kund. Vad kan du ge kunden för värde i din leverans?
+– Det är viktigt. Min erfarenhet är att det är särskilt många tekniker som glömmer bort det.
 <figure class="figure left">
-    <img src="image/jobb1.jpg&w=450&h=450?save-as=jpg&sharpen&r=180" alt="bilar">
-    <figcaption>
-        <p>Här testar jag göra bilder upp och ner. Coolt!</p>
-    </figcaption>
+    <img src="image/certified.png&w=450">
 </figure>
-TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST
-TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST
-TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST
-TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST
-TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST
-TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST
-TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST
-TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST
+**Fortsätt lära dig saker:**
+Du blir aldrig färdiglärd. Ha en målsättning med vart du vill komma och följ en utbildningsplan.
 
-### Rubrik 3 {#vad-som}
+**Vässa din presentation:**
+Lär dig svara på varför kunden ska välja dig och ditt företag! Det är avgörande för om du lyckas som konsult eller inte.
 
-Text.
-
-[FIGURE src="image/jobb1.jpg&w=800&aro&ra=15&bgc=ffffff" caption="Här försökte jag tilta bilden för att se hur det skulle se ut."]
+**Putsa skorna:**
+Ge en professionell presentation rakt igenom – var hel och ren och kom alltid i tid.

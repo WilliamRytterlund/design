@@ -1,3 +1,13 @@
 #### Footer col 3
+<figure class="figure left">
+    <img src="image/f1.png?w=100">
 
-Med brödtext i ett stycke som säger något trevligt om just detta block, eller kanske en lista av länkar.
+</figure>
+<figure class="figure right">
+    <img src="image/f2.png?w=100">
+
+</figure>
+<figure class="figure left">
+    <img src="image/f3.png?w=100">
+
+</figure>

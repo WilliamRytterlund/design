@@ -1,3 +1,8 @@
-#### Footer col 2
+#### Adress
 
-Med brödtext i ett stycke som säger något trevligt om just detta block, eller kanske en lista av länkar.
+Ludviga Af Solstråle med kompanjoner AB
+
+Hälsingegatan 49, 113 31 Stockholm
+
+Besöksadres:
+Hälsingegatan 38, 113 31 Stockholm

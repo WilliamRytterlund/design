@@ -1,41 +1,44 @@
 ---
-title: "Min fina titel"
+title: "Startsida"
 views:
-
-    byline:
-        region: main
+    kursrepo:
+        region: sidebar-left
         template: anax/v2/block/default
-        sort: 2
         data:
             meta:
                 type: single
-                route: block/byline
+                route: block/om-kursrepo
+    redovisa:
+        region: sidebar-right
+        template: anax/v2/block/default
+        data:
+            meta:
+                type: single
+                route: block/om-redovisa
+
 
 
 ---
 
 
-Min me-sida i kursen design
+*Managementkonsulter till ditt företag!*
 =========================
+Välkommen till styrelseordförande Ludviga Af Solstråle med kompanjoner! Vi hjälper dig eller ditt företag att hitta den rätta managementkonsulten.
 
+**Söker du Managementkonsulter eller en konsult?**
 
-[FIGURE src="image/byline.jpg?w=500" class="right" caption="Bild på mig"]
+**Då har du kommit rätt!**
 
+Vi hjälper dig hitta den perfekta konsulten efter era behov med ett skräddarsytt program som visat prov på flera företag med våra erfarenhet i branchen efter 20 år.
+Vi hjälper och guidear dig igenom hela processen, från första kontakten till sista påskriften.
+<figure class="figure left">
+    <img src="image/handskak.jpg?w=300" alt="bilar">
+    <figcaption>
+        <p></p>
+    </figcaption>
+</figure>
+Vi garanterar att hitta den rätta konsulten och för att backa upp detta har vi 20 år i branchen med nöjda kunder.
+De flesta av våra kunder är återkommande kunder vilket är ett tecken på att detta vi håller på fungerar och kunderna är nöjda.
+Vill du komma ikontakt med oss så kan du navigera in på våran blogg där vi visar hur vi går vidare och även hur rekryteringsprocessen fungerar men även tips från våra rekryterare och vad man bör tänka på och inte tänka på.
 
-Det här är min me-sida för kursen design. Här tänker jag köra en presentation om mig. Denna sida kommer uppdateras ifall det behövs under kursens gång.
-
-Då kör vi.
-Här kommer en lite kort beskrivning om mig William Rytterlund.
-
-Jag är uppväxt i Tumba. Tumba är en ort söder om Stockholm cirka 40 minuter med bil imellan beroende på trafiken. Trotsallt Stockholm vi pratar om.
-
-Vi flyttade till hit när jag var 8-9 år gammal. Innan vi flyttade bodde jag en sväng på Söder, Gröndal men under en längre tid i Vårberg.
-Just nu i skrivande stunden så är jag 19år gammal och bor fortfarnade hemma då jag studerar halvtid men även arbetar heltid som Datorconsult i Skarpnäck.
-Jag arbetar som 1st line support tekniker.
-
-När jag inte pluggar eller jobbar så brukar jag sitta vid datorn och snacka med kompisar och spela.
-Jag har även ett väldigt stort motorintresse så på helgerna man har tid blir det en heldel åkande och skruvande.
-
-Vi hörs!
-
-//William
+På återseende!

@@ -1,0 +1,102 @@
+/*!
+ * This is the opptional stylesheet
+ *
+ * This stylesheet is a darkmode stylesheet.
+ */
+
+
+@import "kmom04.less";
+@import "base/base_kmom04_dark.less";
+@import "layout/layout_vgrid_dark.less";
+@backgroundColor: #333;
+@textColor: #2ecc40;
+@fontFamilyBody:monospace;
+@fontFamilyHeadings: monospace;
+@headerColor: #333;
+@goldColor: #2ecc40;
+
+
+html {
+    background-color: @backgroundColor;
+}
+
+body {
+    background-color: @backgroundColor;
+    color: @textColor;
+}
+
+a, li {
+    color: @textColor;
+}
+
+.rm-desktop li {
+    background-color: @backgroundColor;
+}
+
+.footer-column-wrapper {
+    color: @textColor;
+}
+
+a:hover {
+    color:#ffc300;
+    font-weight: bold;
+}
+.rm-navbar a, li {
+    color: @textColor;
+    font-family: Courier;
+    font-size: 18px;
+    font-weight: 800;
+    font-style: none;
+}
+
+.rm-desktop li {
+    color:@goldColor;
+    background-color: @headerColor;
+}
+
+
+.region-main {
+   font-style: italic;
+}
+
+.inner-wrap-header {
+   color:@goldColor;
+   background-color: @headerColor;
+}
+
+.inner-wrap-flash {
+   max-width: 100%;
+}
+
+.footer-column-wrapper {
+   color:@goldColor;
+}
+
+.wrap-sidebar {
+   background-color: #fff3;
+}
+
+
+/**
+* Figure and figcaption for images and other media using figure/figcaption
+*/
+@import "@desinax/figure/less/asciinema.less";
+@import "@desinax/figure/less/codepen.less";
+@import "@desinax/figure/less/figure.less";
+
+
+// Enable style from the module and optinally add customized layout
+figure.figure {
+   #desinax-figure.figure();
+}
+
+figure.asciinema {
+   &:extend(figure.figure);
+   #desinax-figure.asciinema();
+}
+
+figure.codepen,
+figure.figure-codepen {
+   &:extend(figure.figure);
+   #desinax-figure.codepen();
+}
